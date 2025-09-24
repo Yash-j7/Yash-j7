@@ -3,7 +3,8 @@
 
 📍 Kolkata, India  
 📧 yashkjha.25@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/yash-jha) • [GitHub](https://github.com/Yash-j7)
+🔗 [LinkedIn](https://linkedin.com/in/yash-jha) • [GitHub](https://github.com/Yash-j7) • [LeetCode](https://leetcode.com/u/Yash___7/)
+
 
 ---
 
@@ -25,12 +26,30 @@
 ---
 
 ## 🌟 Featured Projects
-### [🏠 Nivasa](https://github.com/Yash-j7/nivasa) · *Real Estate Platform*
+### [🏠 Nivasa](https://github.com/Yash-j7/nivasa) · *Broker-Free Real Estate Platform*
 **Stack:** React, Redux, Node.js, Express, Socket.IO, Docker, CI/CD, MongoDB, Tailwind, Nginx  
-- Containerized microservices with Docker & Nginx for fast delivery.  
-- CI/CD pipeline with GitHub Actions on Ubuntu servers.  
-- Real-time communication with Socket.IO + secure JWT authentication.  
-- Advanced property search with filters & sorting.  
+
+Nivasa is a modern platform to help **newcomers find rental or buy flats directly from owners** —  
+with **no brokers or third-party involvement**, ensuring transparency and cost savings.  
+
+---
+
+#### 👨‍💼 For Renters & Buyers
+- Browse verified property listings with **advanced search, filters, and sorting**.  
+- Directly connect with property owners through **real-time chat (Socket.IO)**.  
+- Secure authentication with **JWT tokens** ensures data safety.  
+
+---
+
+#### 🏡 For Owners & Sellers
+- List properties quickly with intuitive forms and **image uploads**.  
+- Communicate directly with interested buyers/renters without middlemen.  
+- Manage listings in real time with **Redux-powered state management**.  
+
+---
+
+✨ Built with **Dockerized microservices**, optimized by **Nginx**, and deployed with a **GitHub Actions CI/CD pipeline** on Ubuntu servers — Nivasa is scalable, reliable, and user-focused.  
+
 
 ---
 
