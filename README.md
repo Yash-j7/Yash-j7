@@ -52,7 +52,6 @@
 
 ## 📈 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-j7&layout=compact)  
-![Yash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yash-j7&show_icons=true&count_private=true)
 
 ---
 
