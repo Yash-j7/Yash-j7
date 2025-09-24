@@ -34,11 +34,29 @@
 
 ---
 
-### [⚽ ProPitch](https://github.com/Yash-j7/propitch) · *eCommerce for Football Collectibles*
+### [⚽ ProPitch](https://github.com/Yash-j7/propitch) · *One-Stop Solution for Football Enthusiasts*
 **Stack:** React, Redux, Node.js, Express, MongoDB, Tailwind  
-- Implemented **visual search** using HuggingFace Inference API.  
-- Integrated **Razorpay** payment gateway for real-time transactions.  
-- Deployed on Render with responsive UI + Redux state management.  
+
+ProPitch is designed as a **complete football hub**, offering both direct shopping and a peer-to-peer marketplace:  
+
+---
+
+#### 🛒 Direct Store — Buy with Confidence
+- Access **exclusive football accessories** and gear from top brands.  
+- Enjoy a seamless checkout experience with **Razorpay payment integration**.  
+- Responsive, user-friendly UI ensures a smooth shopping journey.  
+
+---
+
+#### 🔄 Marketplace — Fan-to-Fan Trading
+- Upload and sell your own **collectibles** — from signed boots to rare jerseys.  
+- Connect directly with other fans and **trade authentic football memorabilia**.  
+- Powered by **visual search (HuggingFace API)** for easy discovery of items.  
+
+---
+
+✨ With **scalable deployment on Render**, robust state management via **Redux**, and a **modern Tailwind-powered UI**, ProPitch delivers a secure, dynamic, and community-driven platform for football lovers.  
+
 
 ---
 
