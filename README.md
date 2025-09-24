@@ -101,7 +101,7 @@ ProPitch is designed as a **complete football hub**, offering both direct shoppi
 ## 📫 Connect With Me
 - Email: **yashkjha.25@gmail.com**  
 - GitHub: [Yash-j7](https://github.com/Yash-j7)  
-- LinkedIn: [linkedin.com/in/yash-jha](https://linkedin.com/in/yash-jha)
+- LinkedIn: [linkedin.com/in/yash-jha](https://www.linkedin.com/in/yash-jha-18b04b250/)
 
 ---
 ✨ _“Code. Learn. Build. Repeat.”_ ✨
