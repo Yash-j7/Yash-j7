@@ -3,7 +3,7 @@
 
 📍 Kolkata, India  
 📧 yashkjha.25@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/yash-jha) • [GitHub](https://github.com/Yash-j7) • [LeetCode](https://leetcode.com/u/Yash___7/)
+🔗 [LinkedIn](https://www.linkedin.com/in/yash-jha-18b04b250/) • [GitHub](https://github.com/Yash-j7) • [LeetCode](https://leetcode.com/u/Yash___7/)
 
 
 ---
